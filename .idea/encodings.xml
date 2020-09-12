@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/books/chap01/TcpClient.java" charset="Shift_JIS" />
+    <file url="file://$PROJECT_DIR$/books/chap01/TcpServer.java" charset="Shift_JIS" />
+    <file url="file://$PROJECT_DIR$/books/chap01/client_send.txt" charset="Shift_JIS" />
+    <file url="file://$PROJECT_DIR$/books/chap01/server_send.txt" charset="Shift_JIS" />
+  </component>
+</project>

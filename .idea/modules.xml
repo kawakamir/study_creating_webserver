@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/books/chap06/ajax/ajax.iml" filepath="$PROJECT_DIR$/books/chap06/ajax/ajax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/books/appendix/appendix.iml" filepath="$PROJECT_DIR$/books/appendix/appendix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/books/books.iml" filepath="$PROJECT_DIR$/books/books.iml" />
+      <module fileurl="file://$PROJECT_DIR$/books/chap02/chap02.iml" filepath="$PROJECT_DIR$/books/chap02/chap02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/books/chap04/chap04.iml" filepath="$PROJECT_DIR$/books/chap04/chap04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/books/chap05/chap05.iml" filepath="$PROJECT_DIR$/books/chap05/chap05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/books/chap04/cookietest/cookietest.iml" filepath="$PROJECT_DIR$/books/chap04/cookietest/cookietest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/books/chap05/sessiontest/sessiontest.iml" filepath="$PROJECT_DIR$/books/chap05/sessiontest/sessiontest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/study_creating_webserver.iml" filepath="$PROJECT_DIR$/.idea/study_creating_webserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/books/chap04/testbbs_jsp2/testbbs_jsp2.iml" filepath="$PROJECT_DIR$/books/chap04/testbbs_jsp2/testbbs_jsp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/books/chap06/testbbsauth/testbbsauth.iml" filepath="$PROJECT_DIR$/books/chap06/testbbsauth/testbbsauth.iml" />
+    </modules>
+  </component>
+</project>
