@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Sat, 12 Sep 2020 04:57:42 GMT
+Server: Apache/2.2.34 (Unix) mod_ssl/2.2.34 OpenSSL/1.0.2l mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_fcgid/2.3.6
+Last-Modified: Tue, 16 Feb 2016 07:57:02 GMT
+ETag: "142cf72-6f-52bde7a8be36c"
+Accept-Ranges: bytes
+Content-Length: 111
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+<html><head><META HTTP-EQUIV="refresh" CONTENT="0;URL=/cgi-sys/defaultwebpage.cgi"></head><body></body></html>
